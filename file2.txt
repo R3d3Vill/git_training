@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Hello motu
-=======
 hello chotu
->>>>>>> b1efc390bf2af90d675ccf5ab84a2bcc0a3aa0ad
+
